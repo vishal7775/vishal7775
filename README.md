@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **some good open source project**
 
-- 💬 Ask me about **Frontend, Java, SQL, Machine Learning**
+- 💬 Ask me about **Frontend, C, C++, Java, SQL, Machine Learning**
 
 - 📫 How to reach me **vishalubale2019@gmail.com**
 
